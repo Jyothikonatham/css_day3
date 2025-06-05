@@ -1,0 +1,126 @@
+.cont {
+    height: 70%;
+    width: 100%;
+    /* position: relative; */
+    border-radius: 2px solid;
+
+}
+.row1,.row2,.row3,.row4 {
+    display: inline-block;
+     width: 300px;
+    border-radius: 2px solid;
+    position: relative;
+    
+    padding-left: 1px;
+}
+
+img {
+    width: 100%;
+}
+h3{
+     background-color: black;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+}
+/* 
+.row5,.row6,.row7,.row8 {
+    width: 300px;
+    border-radius: 2px solid;
+    position: relative;
+    display: inline-block;
+    /* padding-left: 8px; */
+
+/* 
+h3{
+     background-color: black;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+} 
+
+img {
+    width: 100%;
+}    */
+/* 
+.class2 {
+    width: 300px;
+    border-radius: 2px solid;
+    position: relative;
+    display: inline-block;
+    padding-left: 1px;
+    display: flex;
+    justify-content: space-between;
+} */
+
+img {
+    width: 100%;
+}
+
+/* h3{
+     background-color: black;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+} */
+
+/* .main {
+   width: 23.5%;
+    margin-right: 10px;
+    position: relative;
+    vertical-align: top;
+}  display: inline-block; */
+   
+.row5, .row6, .row7, .row8{
+     display: inline-block;
+     width: 300px;
+    border-radius: 2px solid;
+    position: relative;
+    padding-left: 1px;
+
+}
+
+img {
+    width: 100%;
+}
+h3{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+}
+
+span{
+    background-color: rgb(59, 57, 57);
+    color: white;
+    padding: 10px;
+    position: absolute;
+    top: 340px;
+    left: 500px;
+}
+
+#arch {
+    color:white;
+    top: 330px;
+    left: 578px;
+    position: absolute;
+}
+/* 
+.two {
+    color: white;
+    left: 600px;
+    height: 340px;
+    position: absolute;
+} */
